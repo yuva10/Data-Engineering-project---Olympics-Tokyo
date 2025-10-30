@@ -21,7 +21,8 @@
     },
     {
         "sourceBaseURL":"https://raw.githubusercontent.com",
-        "sourceRelativeURL":"yuva10/Data-Engineering-project---Olympics-Tokyo/main/Teams.lsx",
+        "sourceRelativeURL":"yuva10/Data-Engineering-project---Olympics-Tokyo/main/Teams.xlsx",
         "sinkFileName":"Teams.csv"
     }
 ]
+
