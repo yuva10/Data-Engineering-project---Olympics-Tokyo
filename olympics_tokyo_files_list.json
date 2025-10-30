@@ -1,0 +1,27 @@
+[
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"yuva10/Data-Engineering-project---Olympics-Tokyo/main/Athletes.csv",
+        "sinkFileName":"Athletes.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"yuva10/Data-Engineering-project---Olympics-Tokyo/main/Coaches.csv",
+        "sinkFileName":"Coaches.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"yuva10/Data-Engineering-project---Olympics-Tokyo/main/EntriesGender.csv",
+        "sinkFileName":"EntriesGender.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"yuva10/Data-Engineering-project---Olympics-Tokyo/main/Medals.csv",
+        "sinkFileName":"Medals.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"yuva10/Data-Engineering-project---Olympics-Tokyo/main/Teams.csv",
+        "sinkFileName":"Teams.csv"
+    }
+]
